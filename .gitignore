@@ -1,6 +1,7 @@
 env/
 __pycache__/
 *.session
-config.__pycachr__
+config.py
 geckodriver.*
 chromedriver.*
+
