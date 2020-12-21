@@ -1,0 +1,6 @@
+env/
+__pycache__/
+*.session
+config.__pycachr__
+geckodriver.*
+chromedriver.*
